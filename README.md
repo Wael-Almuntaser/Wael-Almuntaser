@@ -1,170 +1,161 @@
-<!-- ═══════════════════════════════════════════════════════════════════════════════
-     Wael Almuntaser — GitHub Profile README
-     Full‑Stack Software Engineer · Backend · SaaS / ERP · AI Integrations
-══════════════════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/Wael-Almuntaser/Wael-Almuntaser/main/banner.svg" alt="banner" />
+</div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=32&duration=2500&pause=800&color=22d3ee&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=110&lines=Hi%2C+I'm+Wael+Almuntaser+%F0%9F%91%8B%E2%80%8D%E2%99%82%EF%B8%8F;Full%E2%80%91Stack+Software+Engineer;I+build+scalable+SaaS+%2F+ERP+systems+%F0%9F%9A%80;Clean+Architecture+%C2%B7+CQRS+%C2%B7+Multi%E2%80%91tenant+%C2%B7+AI+Agents)](https://git.io/typing-svg)
+<h1 align="center">
+  Hi there, I’m <a href="https://waelalmuntaser.com">Wael Almuntaser</a> 👋
+</h1>
+
+<p align="center">
+  <a href="https://github.com/Wael-Almuntaser"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&color=2F81F7&center=true&vCenter=true&width=760&height=60&lines=Full-Stack+Software+Engineer;Backend+%7C+SaaS+%2F+ERP+Architecture;Clean+Architecture+%7C+CQRS+%7C+Multi-tenant;.NET+%7C+Laravel+%7C+Node.js+%7C+React" alt="Typing SVG" /></a>
+</p>
+
+<p align="center">
+  <a href="https://waelalmuntaser.com"><img src="https://img.shields.io/badge/Portfolio-2F81F7?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/eng-wael-almuntaser-b71243383"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn" /></a>
+  <a href="mailto:waelalmunaster2022@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email" /></a>
+  <a href="https://github.com/Wael-Almuntaser"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Wael-Almuntaser&label=Profile+views&color=2F81F7&style=for-the-badge" alt="views" />
+  <a href="https://github.com/Wael-Almuntaser?tab=followers"><img src="https://img.shields.io/github/followers/Wael-Almuntaser?label=Followers&style=for-the-badge&color=2F81F7&labelColor=0D1117" alt="followers" /></a>
+  <img src="https://img.shields.io/badge/Open+to+work-39D353?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=0D1117" alt="open to work" />
+</p>
+
+<img align="right" width="230" src="https://github.com/Wael-Almuntaser.png?size=460" alt="Wael Almuntaser" />
+
+## 🧑‍💻 About me
+
+Full-Stack Software Engineer specializing in **backend engineering** and **scalable SaaS / ERP systems**.
+Experienced with **.NET, Laravel, Node.js, PostgreSQL, SQL Server** and **REST APIs** — strong in system design,
+**Clean Architecture**, **CQRS**, **multi-tenant architecture** and **database optimization**.
+I deliver production systems end-to-end: from requirements and architecture to deployment and maintenance.
+
+- 🔭 Currently building **enterprise SaaS / ERP at Tabweeb Company**
+- 🧠 Deep-diving into **AI Engineering — LLM integration, MCP & agent workflows**
+- 🏗️ I care about **Clean Architecture, CQRS, multi-tenancy & query performance**
+- 📍 Based in **Sana'a, Yemen**
+- 💬 Ask me about **.NET · Laravel · System Design · Database Optimization**
+- 📫 Reach me: **waelalmunaster2022@gmail.com**
+
+<table align="center">
+  <tr>
+    <td align="center"><h3>4+</h3><sub>Years of experience</sub></td>
+    <td align="center"><h3>10+</h3><sub>Projects delivered</sub></td>
+    <td align="center"><h3>1K+</h3><sub>SaaS users served</sub></td>
+    <td align="center"><h3>30%</h3><sub>Faster DB queries</sub></td>
+  </tr>
+</table>
+
+<br clear="right" />
+
+## 🛠️ Tech stack
+
+| Layer | Technologies |
+| :-- | :-- |
+| **⚙️ Backend** | ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white&labelColor=0D1117) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=0D1117) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=0D1117) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=0D1117) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=0D1117) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=0D1117) |
+| **🎨 Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white&labelColor=0D1117) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=0D1117) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=0D1117) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0D1117) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=0D1117) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=0D1117) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=0D1117) |
+| **🗄️ Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0D1117) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&labelColor=0D1117) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0D1117) |
+| **🏛️ Architecture** | ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-1F6FEB?style=for-the-badge&labelColor=0D1117) ![CQRS](https://img.shields.io/badge/CQRS-8957E5?style=for-the-badge&labelColor=0D1117) ![SOLID](https://img.shields.io/badge/SOLID-238636?style=for-the-badge&labelColor=0D1117) ![System Design](https://img.shields.io/badge/System_Design-0E7490?style=for-the-badge&labelColor=0D1117) ![Multi--tenant](https://img.shields.io/badge/Multi--tenant-BC4C00?style=for-the-badge&labelColor=0D1117) |
+| **🤖 AI Engineering** | ![LLM Integration](https://img.shields.io/badge/LLM_Integration-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=0D1117) ![MCP](https://img.shields.io/badge/MCP-D97757?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=0D1117) ![AI Agent Workflows](https://img.shields.io/badge/AI_Agent_Workflows-8957E5?style=for-the-badge&labelColor=0D1117) ![Tool Calling](https://img.shields.io/badge/Tool_Calling-1F6FEB?style=for-the-badge&labelColor=0D1117) ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-238636?style=for-the-badge&labelColor=0D1117) |
+| **🔌 Integrations** | ![REST APIs](https://img.shields.io/badge/REST_APIs-85EA2D?style=for-the-badge&logo=swagger&logoColor=white&labelColor=0D1117) ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white&labelColor=0D1117) ![Moyasar](https://img.shields.io/badge/Moyasar-000000?style=for-the-badge&logo=applepay&logoColor=white&labelColor=0D1117) ![Tabby](https://img.shields.io/badge/Tabby-3BFFC0?style=for-the-badge&labelColor=0D1117) ![Tamara](https://img.shields.io/badge/Tamara-F5C451?style=for-the-badge&labelColor=0D1117) ![SMS APIs](https://img.shields.io/badge/SMS_APIs-F22F46?style=for-the-badge&logo=twilio&logoColor=white&labelColor=0D1117) |
+| **🚀 Tools & DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0D1117) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0D1117) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117) ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=0D1117) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=0D1117) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white&labelColor=0D1117) ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white&labelColor=0D1117) ![SonarCloud](https://img.shields.io/badge/SonarCloud-F3702A?style=for-the-badge&logo=sonarcloud&logoColor=white&labelColor=0D1117) |
+
+## 📊 GitHub analytics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Wael-Almuntaser&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark&title_color=2F81F7&icon_color=2F81F7&bg_color=0D1117" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Wael-Almuntaser&layout=compact&langs_count=8&hide_border=true&theme=github_dark&title_color=2F81F7&bg_color=0D1117" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Wael-Almuntaser&hide_border=true&background=0D1117&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7&sideLabels=8B949E&dates=6E7681&stroke=30363D" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://ghchart.rshah.org/2F81F7/Wael-Almuntaser" alt="Contribution graph" />
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wael-Almuntaser/Wael-Almuntaser/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wael-Almuntaser/Wael-Almuntaser/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Wael-Almuntaser/Wael-Almuntaser/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/Wael-Almuntaser/Wael-Almuntaser/output/github-contribution-grid-snake.svg" />
 </picture>
 
-[![Visitors](https://komarev.com/ghpvc/?username=Wael-Almuntaser&label=Profile+Views&color=0e7490&style=for-the-badge)](#)
-[![wakatime](https://wakatime.com/badge/user/00000000-0000-0000-0000-000000000000.svg?style=for-the-badge)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eng-wael-almuntaser-b71243383)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-22d3ee?style=for-the-badge&logo=firefox&logoColor=042f2e)](https://waelalmuntaser.com)
+## 🚀 Featured projects
 
----
+### Tryadh Academy — `Sports Academy & Subscription Management`
 
-</div>
+Full-stack sports academy management platform covering registrations, subscriptions, attendance, payments and daily operations.
 
-## <picture><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9d1_200d_1f4bb/512.gif" width="28" /></picture> &nbsp;About Me
+- Role-based authorization for **6+ user types** with module-level access control
+- **Moyasar** payments + automated **PDF invoicing** (Apple Pay & credit cards)
+- Real-time **QR-code attendance** with automated WhatsApp / SMS notifications
 
-I'm a **Full‑Stack Software Engineer** based in Sana'a, Yemen, specialising in **backend engineering** and **scalable SaaS / ERP platforms**. I take products from requirements and system design all the way to production deployment and long‑term maintenance, with a strong focus on **Clean Architecture, CQRS, multi‑tenant architecture, and database performance**.
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=0D1117) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0D1117) ![REST API](https://img.shields.io/badge/REST_API-85EA2D?style=for-the-badge&logo=swagger&logoColor=white&labelColor=0D1117) ![Moyasar](https://img.shields.io/badge/Moyasar-000000?style=for-the-badge&logo=applepay&logoColor=white&labelColor=0D1117)
 
-Recently I've also been building **AI‑powered features** — LLM integrations, MCP servers, tool‑calling and AI agent workflows — into the enterprise products I work on.
+🔗 **Live** → [tryadh.com/](https://tryadh.com/)
 
-- <picture><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="16" /></picture> B.Sc. in **Cybersecurity & Networks**, Razi University (2025)
-- <picture><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Building%20Construction.png" width="16" /></picture> Currently **Full‑Stack Developer at Tabweeb Company**, building enterprise SaaS / ERP serving 1K+ active users
-- <picture><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="16" /></picture> 3+ years freelancing, delivering **10+** production web platforms for SMEs
-- <picture><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="16" /></picture> Comfortable across the stack, but strongest on the **backend & architecture** side
-- <picture><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="16" /></picture> Reach me at **waelalmunaster2022@gmail.com** or **+967 777 526 756**
+### Bena Design — `Architecture & Contracting Marketplace`
 
----
+Marketplace connecting clients with architects and contractors — services, portfolios, users and secure business workflows.
 
-## <picture><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6e0_fe0f/512.gif" width="28" /></picture> &nbsp;Tech Stack
+- Role-based system with **secure workflows**
+- Database engineered for **10K+ records** (services, portfolios, users)
+- REST APIs processing **1K+ requests / day**
 
-### <picture><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Hourglass%20Done.png" width="20" /></picture> Architecture & Design
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-0f172a?style=for-the-badge) ![CQRS](https://img.shields.io/badge/CQRS-4f46e5?style=for-the-badge) ![SOLID](https://img.shields.io/badge/SOLID-0ea5e9?style=for-the-badge) ![System Design](https://img.shields.io/badge/System_Design-7c3aed?style=for-the-badge) ![Multi-tenant](https://img.shields.io/badge/Multi--tenant-0891b2?style=for-the-badge)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=0D1117) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0D1117) ![REST API](https://img.shields.io/badge/REST_API-85EA2D?style=for-the-badge&logo=swagger&logoColor=white&labelColor=0D1117)
 
-### <picture><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" width="20" /></picture> AI Engineering
-![LLM Integration](https://img.shields.io/badge/LLM_Integration-7c3aed?style=for-the-badge&logo=openai&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-111827?style=for-the-badge) ![AI Agents](https://img.shields.io/badge/AI_Agents-4f46e5?style=for-the-badge) ![Tool Calling](https://img.shields.io/badge/Tool_Calling-0ea5e9?style=for-the-badge) ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-22d3ee?style=for-the-badge)
+🔗 **Live** → [benadesign.com/](https://benadesign.com/)
 
-### <picture><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="20" /></picture> Backend
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-68217a?style=for-the-badge&logo=dotnet&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-ff2d20?style=for-the-badge&logo=laravel&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-0284d0?style=for-the-badge&logo=fastapi&logoColor=white) ![WebSockets](https://img.shields.io/badge/WebSockets-ef4444?style=for-the-badge&logo=socketdotio&logoColor=white)
+<details>
+<summary><b>📦 More shipped work</b></summary>
 
-### <picture><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Palette.png" width="20" /></picture> Frontend
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb) ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-dd0031?style=for-the-badge&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38bdf8?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952b3?style=for-the-badge&logo=bootstrap&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-2965f1?style=for-the-badge&logo=css3&logoColor=white)
+| Project | Description | Link |
+| :-- | :-- | :-- |
+| **SAMA Association** | Hearing-disability association portal | [Visit](https://sm3-rs.com/) |
+| **SMS4U** | Virtual messages store with instant delivery | [Visit](https://sms4u.pro/) |
+| **Al-Naba Contracting** | Contracting company corporate site | [Visit](https://n-naba.com/) |
 
-### <picture><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/File%20Cabinet.png" width="20" /></picture> Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-cc2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00618a?style=for-the-badge&logo=mysql&logoColor=white)
+</details>
 
-### <picture><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" width="20" /></picture> Integrations
-![Moyasar](https://img.shields.io/badge/Moyasar-0066cc?style=for-the-badge) ![Tabby](https://img.shields.io/badge/Tabby-ff4785?style=for-the-badge) ![Tamara](https://img.shields.io/badge/Tamara-2d46b9?style=for-the-badge) ![SMS APIs](https://img.shields.io/badge/SMS_APIs-16a34a?style=for-the-badge)
+## 💼 Experience
 
-### <picture><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="20" /></picture> Tools & DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ed?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-ff6c37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-85ea2d?style=for-the-badge&logo=swagger&logoColor=black) ![Sentry](https://img.shields.io/badge/Sentry-362d59?style=for-the-badge&logo=sentry&logoColor=white) ![SonarCloud](https://img.shields.io/badge/SonarCloud-ce3265?style=for-the-badge&logo=sonarcloud&logoColor=white)
+### Tabweeb Company · Full-Stack Developer
+`Jul 2025 — Present`
 
----
+- Enterprise **SaaS / ERP** platforms serving **1K+ active users**
+- Designed & implemented **multi-tenant architecture**
+- Financial modules for pricing & tax calculations across scenarios
+- Improved onboarding flow → **~20% less drop-off**
+- Applied **CQRS** for separation of concerns & scalability
+- Optimized DB queries → **~30% faster response time**
 
-## <picture><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" width="28" /></picture> &nbsp;Featured Projects
+### Freelance · Full-Stack Developer
+`2022 — 2025`
 
-### <img src="https://cdn-icons-png.flaticon.com/512/2920/2920277.png" width="22" /> &nbsp;Tryadh Academy — Sports Academy & Subscription Management System
-A full‑stack sports academy platform covering registrations, subscriptions, attendance, payments and daily operations.
-- **6+ user roles** with module‑level RBAC and workflow‑specific permissions
-- **Moyasar** payment integration (Apple Pay + credit cards) with automated PDF invoicing
-- Real‑time **QR‑code attendance** with automated WhatsApp / SMS notification workflows
-- Live demo available on request
+- Delivered **10+ web applications** & business platforms for SMEs
+- REST APIs handling up to **2K+ daily requests**
+- Designed & optimized relational databases for growing datasets
+- Full lifecycle: requirements → architecture → deployment → maintenance
 
-### <img src="https://cdn-icons-png.flaticon.com/512/3073/3073685.png" width="22" /> &nbsp;Bena Design — Architecture & Contracting Marketplace
-A marketplace connecting clients with architects and contractors, with services, portfolios, user management and business workflows.
-- Role‑based system with secure end‑to‑end workflows
-- Relational model handling **10K+ records** (services, portfolios, users)
-- REST APIs processing **1K+ requests/day**
-- Live demo available on request
+## 🎓 Education & certifications
 
-> More public projects on my **[GitHub repositories](https://github.com/Wael-Almuntaser?tab=repositories)**.
+- 🎓 **B.Sc. Cybersecurity and Networks** — Razi University `(2025)`
+- 🛰️ **CCNA 1, 2, 3** — GTI `(2025)`
+- 🧩 Continuous learning: system design, distributed systems & AI engineering
 
----
+> “Secure by design, clean by default, fast by measurement.”
 
-## <picture><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4c8/512.gif" width="28" /></picture> &nbsp;Experience
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### <img src="https://cdn-icons-png.flaticon.com/512/3281/3281289.png" width="20" /> &nbsp;Full‑Stack Developer — Tabweeb Company
-<p><code>Jul 2025 — Present</code></p>
-
-- Maintain enterprise **SaaS / ERP** platforms serving **1K+** active users
-- Designed & implemented a **multi‑tenant** SaaS / ERP system
-- Built financial modules handling pricing & tax calculations across multiple scenarios
-- Improved onboarding → **~20% drop in user drop‑off**
-- Applied **CQRS** across core modules for better SoC, scalability & maintainability
-- Optimised database queries → **~30% response‑time reduction**
-
-</td>
-<td width="50%" valign="top">
-
-### <img src="https://cdn-icons-png.flaticon.com/512/3456/3456426.png" width="20" /> &nbsp;Full‑Stack Developer — Freelance
-<p><code>2022 — 2025</code></p>
-
-- Delivered **10+** web applications & business platforms for SMEs across different domains
-- Built REST APIs handling up to **2K+ daily requests**
-- Designed & optimised relational database schemas for growing business datasets
-- Owned the full SDLC: requirements → architecture → development → deployment → maintenance
-
-</td>
-</tr>
-</table>
-
----
-
-## <picture><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" width="28" /></picture> &nbsp;Education & Certifications
-
-- <img src="https://cdn-icons-png.flaticon.com/512/3003/3003030.png" width="16" /> **B.Sc. in Cybersecurity & Networks** — Razi University (2025)
-- <img src="https://cdn-icons-png.flaticon.com/512/12745/12745484.png" width="16" /> **CCNA 1, 2, 3** — GTI (2025)
-
----
-
-## <picture><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ca/512.gif" width="28" /></picture> &nbsp;GitHub Stats
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Wael-Almuntaser&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=22d3ee&text_color=c9d1d9" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wael-Almuntaser&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9" />
-</div>
-
-<div align="center">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=Wael-Almuntaser&theme=tokyonight&hide_border=true&background=0d1117&ring=22d3ee&fire=22d3ee&currStreakLabel=22d3ee&sideLabels=94a3b8&dates=94a3b8" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Wael-Almuntaser&theme=tokyonight" />
-</div>
-
-<!--
-  To enable the contribution snake animation:
-    1. Create a repo named exactly "Wael-Almuntaser" (your GitHub username)
-    2. Add this file as its README.md
-    3. Add a GitHub Action using:
-       https://github.com/Platane/snk to generate the snake.svg into
-       the `output` branch of your profile repo.
-  Then the <picture> block at the top will start animating automatically.
--->
-
----
-
-## <picture><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4e1/512.gif" width="28" /></picture> &nbsp;Let's Connect
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-waelalmuntaser.com-0891b2?style=for-the-badge&logo=firefox&logoColor=white)](https://waelalmuntaser.com)
-[![Email](https://img.shields.io/badge/Email-waelalmunaster2022@gmail.com-c5221f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:waelalmunaster2022@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-eng--wael--almuntaser-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eng-wael-almuntaser-b71243383)
-[![GitHub](https://img.shields.io/badge/GitHub-Wael--Almuntaser-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Wael-Almuntaser)
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/Wael-Almuntaser/Wael-Almuntaser@main/assets/location.svg" width="14" /> &nbsp;Sana'a, Yemen &nbsp;·&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/Wael-Almuntaser/Wael-Almuntaser@main/assets/phone.svg" width="14" /> &nbsp;+967&nbsp;777&nbsp;526&nbsp;756
-</p>
-
-<picture><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake%20Medium%20Skin%20Tone.png" width="26" /></picture> &nbsp;Open to freelance work, full‑time roles and interesting collaborations.
-
----
+## 📫 Let’s connect
 
 <p align="center">
-  <i>Crafted with ☕, C# and a lot of cursor time — last updated 2026.</i>
+  <a href="https://waelalmuntaser.com"><img src="https://img.shields.io/badge/Portfolio-2F81F7?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/eng-wael-almuntaser-b71243383"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn" /></a>
+  <a href="mailto:waelalmunaster2022@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email" /></a>
+  <a href="https://wa.me/967777526756"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0D1117" alt="WhatsApp" /></a>
+  <a href="tel:+967777526756"><img src="https://img.shields.io/badge/Call-39D353?style=for-the-badge&logo=phonepe&logoColor=white&labelColor=0D1117" alt="Call" /></a>
 </p>
 
-</div>
+<p align="center"><sub>⭐ If my work helps you, consider starring a repo! </sub></p>
